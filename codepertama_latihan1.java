@@ -1,8 +1,8 @@
 public class codepertama_latihan1 {
     public static void main(String[]args) {
         System.out.println("Nama: Tania Yuniar");
-        System.out.println("NIM :D1041231010");
-        System.out.println("Semester : 4");
+        System.out.println("NIM : D1041231010");
+        System.out.println("Semester : 6");
         System.out.println("Prodi: Informatika");
        
     } 
